@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Software Engineering on ALX
 - 💞️ I’m looking to collaborate on C programming language
-- 📫 How to reach me; you can reach me via twitter @ChiNAZmoi and LinkedIn @NwosuChinaza
+- 📫 You can reach me via twitter @ChiNAZmoi and LinkedIn @NwosuChinaza
 
 <!---
 JoyChinaza/JoyChinaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
